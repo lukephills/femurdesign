@@ -1,0 +1,15 @@
+archive
+node_modules
+public
+.idea/
+.DS_Store
+
+
+.ftpquota
+.htaccess
+cgi-bin
+
+sites
+kollektivgallery.com
+theremin
+private
